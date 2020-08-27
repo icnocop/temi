@@ -1,1 +1,1 @@
-# temi Desktop
+# Unofficial temi desktop application
