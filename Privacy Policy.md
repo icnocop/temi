@@ -1,4 +1,4 @@
-# Unofficial temi desktop application privacy policy
+# Privacy Policy
 
 ## Personal information
 
